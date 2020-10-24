@@ -27,7 +27,7 @@ import SwiftIntroView
 
 struct ContentView: View {
   // for demo
-  @AppStorage(wrappedValue: "", SwiftIntroView.AppStorageKey.lastShownPage.rawValue) var lastShownPageName: String
+  @AppStorage(wrappedValue: "", SwiftUIIntroView.AppStorageKey.lastShownPage.rawValue) var lastShownPageName: String
 
   @State var index:Int = 5
   @State private var present:Bool = false
