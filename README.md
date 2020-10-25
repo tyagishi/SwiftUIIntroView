@@ -5,7 +5,14 @@ SwiftUI view for showing introduction views for new users/update users.
 this is very small enhancement for storing viewed page information with using AppStorage.
 
 ## SwiftIntroView in 30 sec.
-gif will be added
+### store viewed page info
+![StoreViewedPageInfo](https://user-images.githubusercontent.com/6419800/97098242-09dce180-16be-11eb-9a77-fc2873223130.gif)
+
+### can offer "later" to user
+![LaterWillNotSaveInfo](https://user-images.githubusercontent.com/6419800/97098245-0d706880-16be-11eb-992b-7bcb1aace30c.gif)
+
+### user will see new pages only (after storing viewed page info)
+![UserWillSeeNewPagesOnly](https://user-images.githubusercontent.com/6419800/97098248-1103ef80-16be-11eb-80ae-64dd9a53f943.gif)
 
 ## How to install
 use Swift Package manager with URL: https://github.com/tyagishi/SwiftUIIntroView
