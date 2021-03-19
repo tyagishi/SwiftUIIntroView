@@ -43,21 +43,3 @@ public struct SwiftIntroPage : Identifiable {
   }
 }
 
-
-
-struct Page1: View {
-  var body: some View {
-    Text("page1")
-  }
-}
-
-struct Page2: View {
-  var body: some View {
-    Text("page2")
-  }
-}
-struct Page3: View {
-  var body: some View {
-    Text("page3")
-  }
-}
